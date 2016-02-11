@@ -17,5 +17,3 @@ int mult(int x, int y)
 {
 	return x * y;
 }
-
-// some changes to original source code
