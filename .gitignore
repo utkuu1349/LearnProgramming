@@ -1,4 +1,0 @@
-#this file is to specify which filetypes git should ignore
-
-*~
-*.o
